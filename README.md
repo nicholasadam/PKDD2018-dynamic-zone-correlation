@@ -1,2 +1,5 @@
 # PKDD2018-dynamic-zone-correlation
-This is the github page for pkdd2018 submission
+# Description
+
+This package is created to dynamic travel demand estimation as described in paper "Discovering Urban Travel Demands through
+Dynamic Zone Correlation in Location-based Social Networks", which is submitted to PKDD2018. In this paper, we aim to exploit the rich check-in data to model dynamic travel demands in urban areas, which can support a wide variety of mobile business solutions. Specically, we first profile the functionality of city zones using the categorical density of POIs. Second, we use a Hawkes Process-based State-Space formulation to model the dynamic trip arrival patterns based on check-in arrival patterns. Third, we developed a joint model that integrates Pearson Product-Moment Correlation (PPMC) analysis into zone gravity modeling to perform dynamic Origin-Destination (OD) prediction. Last, we validated our methods using real-world LBSN and transportation data of New York City. The experimental results demonstrate the effectiveness of the proposed method for modeling dynamic urban travel demands. Our method achieves a significant improvement on OD prediction compared to baselines.
