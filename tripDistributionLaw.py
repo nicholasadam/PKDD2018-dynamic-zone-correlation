@@ -1,3 +1,4 @@
+### this .py is for baselines' implementation
 import numpy as np
 
 def NGravExp(dij,mi,mj,beta,OD):
