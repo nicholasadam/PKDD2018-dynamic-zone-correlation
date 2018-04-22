@@ -1,3 +1,6 @@
+### this .py is for generating model performance, MAE, NRMSE, and CR
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
