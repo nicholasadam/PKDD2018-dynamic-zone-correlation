@@ -19,7 +19,7 @@ Finally, given the gravity model framework, we proposed a joint PPMCGM model to 
 In this package we consider 4 zonal OD estimation baselins:1) Normalized gravity model with an exponential distance decay function (NGravExp).2) Normalized gravity model with a power distance decay function (NGravPow).3) Schneider intervening opportunities model (Schneider). 4) Radiation model (Rad).
 
 # Contents of the package
-zone topic.ipynb
+UrbanFunctionalityProfiling.ipynb
 
 zonal trip arrival estimation.ipynb
 
