@@ -21,8 +21,8 @@ In this package we consider 4 zonal OD estimation baselins:1) Normalized gravity
 # Contents of the package
 UrbanFunctionalityProfiling.ipynb
 
-zonal trip arrival estimation.ipynb
+TripArrivalEstimation.ipynb
 
-zone corrrelation.ipynb
+zone.ipynb
 
 OD estimation.ipynb
