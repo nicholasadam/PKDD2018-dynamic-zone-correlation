@@ -20,12 +20,12 @@ In this package we consider 4 zonal OD estimation baselins:1) Normalized gravity
 
 # Contents of the package
 
-DataFrameProcess.ipynb
+DataFrameProcess.ipynb (process the raw check-in data to dataframe. We assigned zone ID and time slot for each check-in record) 
 
-UrbanFunctionalityProfiling.ipynb
+UrbanFunctionalityProfiling.ipynb (input is the dataframe file, output is the assigned zone topic list)
 
-TripArrivalEstimation.ipynb
+TripArrivalEstimation.ipynb (input is the dataframe file, output is the zonal trip arrival matrix)
 
-zoneCorrelationAnalysis.ipynb
+zoneCorrelationAnalysis.ipynb (input is the dataframe file, output is the zone correlation matrix)
 
-ModelPerformance.ipynb
+ModelPerformance.ipynb (input is the dataframe file, zone topic, zonal trip arrival matrix, zone correlation matrix, and the output is the OD matrix. We also have the code for visualization of the MOE result inside)
