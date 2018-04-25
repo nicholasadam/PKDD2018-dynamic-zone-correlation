@@ -28,4 +28,4 @@ TripArrivalEstimation.ipynb (input is the dataframe file, output is the zonal tr
 
 zoneCorrelationAnalysis.ipynb (input is the dataframe file, output is the zone correlation matrix)
 
-ModelPerformance.ipynb (input is the dataframe file, zone topic, zonal trip arrival matrix, zone correlation matrix, and the output is the OD matrix. We also have the code for visualization of the MOE result inside)
+ModelPerformance.ipynb and MOEplot.ipynb (input is the dataframe file, zone topic, zonal trip arrival matrix, zone correlation matrix, and the output is the OD matrix. We also have the code for visualization of the MOE result inside)
